@@ -11,4 +11,4 @@ Proyecto donde mejoro mi habilidad con css-grid y experimento con imagenes anima
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img></code>
 
 ## Vista previa del proyecto
-<img src="Proyect-preview.png" aling="center"></img>
+<img src="proyect-preview.png" aling="center"></img>
